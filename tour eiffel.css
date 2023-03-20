@@ -1,0 +1,15 @@
+.main{
+  background: linear-gradient( to top, rgba(0,0,0,0.5)50%, rgba(0,0,0,0.5)50%), url(museum-g780b622e8_1920.jpg);
+  background-position: center;
+  background-size: cover;
+  height:100%;
+
+}
+h1{
+    text-align: center;
+    color: rgb(255, 217, 0);
+}
+h2{
+    margin: auto;
+    color: white;
+}

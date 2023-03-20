@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.main{
+    width:100%;
+    background: linear-gradient(to top,rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%), url(light-g347242be4_1920.jpg);
+    background-position: center;
+    background-size: cover;
+   height: max-content;
+}
+
+
+h1{
+    text-align: center;
+    color: yellow;
+    
+   
+}
+h2{
+    text-align: center;
+    color: white;
+}
